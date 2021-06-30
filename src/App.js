@@ -8,8 +8,8 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
+        </p>
         
-        <p>
           hi!!! i'm 현선
         </p>
         <a
